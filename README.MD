@@ -1,8 +1,7 @@
 # API - Central de Erros @Codenation em Parceria com @Itau
 ## squad-3-ad-csharp-women-itau-1
 
-## Indice
-
+### Indice
 * [Objetivo](#objetivo)
 * [Tecnologias e Ferramentas Utilizadas](#tecnologias-utilizadas)
 * [Banco de Dados](#banco-de-dados)
