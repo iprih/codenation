@@ -1,9 +1,9 @@
-# API - Central de Erros @Codenation em Parceria com @Itau - squad-3-ad-csharp-women-itau-1
+# API - Central de Erros @Codenation em Parceria com @Itau
+## squad-3-ad-csharp-women-itau-1
 
 ## Indice
 
 * [Objetivo](#objetivo)
-* [Backend API](#backend-api)
 * [Tecnologias Utilizadas](#tecnologias-utilizadas)
 * [Banco de dados](#banco-de-dados)
 * [Heroku](#link-heroku)
