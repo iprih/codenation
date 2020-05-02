@@ -7,7 +7,7 @@
 * [Banco de Dados](#banco-de-dados)
 * [Heroku](#link-heroku)
 * [Apresentação](#slides)
-* [Agradecimentos] (#agradecimentos)
+* [Agradecimentos](#agradecimentos)
 
 ### Trabalho desenvolvido pela Squad:
 
@@ -29,7 +29,7 @@ A arquitetura do projeto é formada por:
 - criar endpoints para serem usados pelo frontend da aplicação
 - criar um endpoint que será usado para gravar os logs de erro em um banco de dados relacional
 - a API deve ser segura, permitindo acesso apenas com um token de autenticação válido
-* Frontend
+#### Frontend
 - deve implementar as funcionalidades apresentadas nos wireframes
 - deve ser acessada adequadamente tanto por navegadores desktop quanto mobile
 - deve consumir a API do produto
